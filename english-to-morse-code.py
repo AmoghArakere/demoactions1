@@ -12,7 +12,7 @@ english_to_morse = {
 
 }
 
-user_string = "amogh"
+user_string = "anirudh"
 
 
 def translate(text):
@@ -37,3 +37,4 @@ def translate(text):
 
 
 print(translate(user_string))
+print("hello")
